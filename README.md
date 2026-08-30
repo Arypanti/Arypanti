@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! Eu sou Ariany Pantaleão 👋
 
-<!--
-**Arypanti/Arypanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora em transição para a área de Tecnologia.
 
-Here are some ideas to get you started:
+Sou formada em Análise e Desenvolvimento de Sistemas e estou em constante aprendizado, desenvolvendo projetos e aprimorando minhas habilidades em programação e tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e habilidades
+
+- Python
+- Kotlin
+- JavaScript
+- HTML
+- CSS
+- Node.js
+- SQLite
+- Git e GitHub
+
+## 🛠️ Projetos
+
+Atualmente desenvolvo projetos práticos para aplicar meus conhecimentos e evoluir constantemente na área de tecnologia.
+
+📱 TireXpress  
+💻 Sistema Pimenta Flor  
+🎮 Jogo da Forca  
+
+## 📚 Atualmente estudando
+
+- Cibersegurança
+- Desenvolvimento Mobile com Kotlin
+- Python
+- Desenvolvimento Web
+
+## 🌱 Em constante evolução
+
+Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em soluções.
+
+📫 Sempre aberta a novos aprendizados e oportunidades na área de tecnologia.
